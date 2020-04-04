@@ -22,12 +22,12 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 情怀你不懂
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  一个充满情怀的网站
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, "en" (default, English), "zh"(简体中文), "zh-Hans"(简体中文), "zh-Hant"(繁體中文)
+lang: zh
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -42,7 +42,7 @@ author:
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/neroXu
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
