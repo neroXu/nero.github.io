@@ -12,7 +12,7 @@ header:
       zh-Hant:  關於
     url:        /about.html
 docs-zh:
-  - title:      导航示例
+  - title:      历史文章
     children:
       - title: Welcome
         url: https://neroXu.github.io/2018/07/01/welcome.html
