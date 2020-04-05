@@ -14,7 +14,7 @@ header:
 docs-zh:
   - title:      历史文章
     children:
-      - title: Welcome
-        url: https://neroXu.github.io/2018/07/01/welcome.html
-      - title: Post with Header Image
-        url: https://neroXu.github.io/2018/06/01/header-image.html
+      - title: 开篇
+        url: https://neroXu.github.io/2020/04/05/welcome.html
+      - title: 一些好的网站整理
+        url: https://neroXu.github.io/2018/04/05/learing-net.html
